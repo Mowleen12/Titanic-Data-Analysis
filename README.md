@@ -10,7 +10,7 @@ This project analyzes the Titanic passenger dataset to predict survival outcomes
 ## 📂 Datasets
 - `train.csv`: Training dataset with passenger features and survival labels.
 - `test.csv`: Test dataset without survival labels, used for prediction.
-
+- `https://www.kaggle.com/c/titanic/data`: data source
 ## 🧰 Requirements
 Make sure you have Python installed (version 3.7+ recommended).
 
